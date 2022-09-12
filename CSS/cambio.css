@@ -1,0 +1,29 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 1.25em;
+    background-color: rgb(46, 178, 117);
+    text-align: center;
+}
+.CasaCambio{
+    font-size: 35px;
+}   
+#uno{
+    width: 60px;
+    height: 16px;
+}
+#dos{
+    width: 60px;
+    height: 16px;
+}
+#valor{
+    font-size: 15px;
+}
+#cotizador{
+    font-size: 23px;
+    border-radius: 15%;
+    color: whitesmoke;
+    background-color: rgb(125, 37, 57); 
+}
